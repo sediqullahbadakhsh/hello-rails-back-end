@@ -1,24 +1,74 @@
-# README
+# Hello-rails-back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> this is an API only back-end rails App serves for [This](https://github.com/sediqullahbadakhsh/hello-rails-back-end) react Front-End
 
-Things you may want to cover:
+- [Link-to-React-repo](https://github.com/sediqullahbadakhsh/hello-rails-back-end)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- _**Ruby**_
+- _**Rails**_
+- _**PostgreSQL**_
 
-* Configuration
+## Getting Started
 
-* Database creation
+### Clone this repository
 
-* Database initialization
+```bash
+$ git clone https://github.com/sediqullahbadakhsh/hello-react-rails.git
+$ cd hello-react-rails
+```
 
-* How to run the test suite
+### Install gems
 
-* Services (job queues, cache servers, search engines, etc.)
+```bash
+$ bundle install
+```
 
-* Deployment instructions
+### Setup database
 
-* ...
+```bash
+$ rails db:create
+```
+
+### Start server
+
+```bash
+$ rails s
+```
+
+Open http://localhost:3000/ in your browser
+
+### Run tests
+
+```bash
+$ bundle exec rspec
+```
+
+## Authors
+
+<!-- table Variables -->
+
+[@sediqullahbadakhsh]: https://github.com/sediqullahbadakhsh
+[@sediqullah]: https://www.linkedin.com/in/sediqullah/
+
+<!-- table Variables -->
+
+| 👤           | **Sediqullah Badakhsh** |
+| ------------ | ----------------------- |
+| **GitHub**   | [@sediqullahbadakhsh]   |
+| **LinkedIn** | [@sediqullah]           |
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
