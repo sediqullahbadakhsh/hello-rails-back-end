@@ -1,8 +1,8 @@
 # Hello-rails-back-end
 
-> this is an API only back-end rails App serves for [This](https://github.com/sediqullahbadakhsh/hello-rails-back-end) react Front-End
+> this is an API only back-end rails App serves for [This](https://github.com/sediqullahbadakhsh/hello-react-front-end/tree/front-end) react Front-End
 
-- [Link-to-React-repo](https://github.com/sediqullahbadakhsh/hello-rails-back-end)
+- [Link-to-React-repo](https://github.com/sediqullahbadakhsh/hello-react-front-end/tree/front-end)
 
 ## Built With
 
@@ -15,7 +15,7 @@
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/sediqullahbadakhsh/hello-react-rails.git
+$ git clone https://github.com/sediqullahbadakhsh/hello-rails-back-end.git
 $ cd hello-react-rails
 ```
 
