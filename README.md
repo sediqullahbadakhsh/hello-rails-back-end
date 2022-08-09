@@ -1,8 +1,8 @@
 # Hello-rails-back-end
 
-> this is an API only back-end rails App serves for [This](https://github.com/sediqullahbadakhsh/hello-rails-back-end) react Front-End
+> this is an API only back-end rails App serves to [This](https://github.com/sediqullahbadakhsh/hello-rails-front-end) react Front-End
 
-- [Link-to-React-repo](https://github.com/sediqullahbadakhsh/hello-rails-back-end)
+- [Link-to-React-repo](https://github.com/sediqullahbadakhsh/hello-rails-front-end)
 
 ## Built With
 
